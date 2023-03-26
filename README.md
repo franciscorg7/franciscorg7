@@ -1,17 +1,14 @@
-<h1><p><img src="https://media.giphy.com/media/3eIDBeFtHy8AIQoq96/giphy.gif" width="50px"> Hi, it's Francisco</h1></p>
+<h1><p>Hi, it's Francisco<img src="https://media.giphy.com/media/3eIDBeFtHy8AIQoq96/giphy.gif" width="50px" style="margin-left: 4px; margin-bottom: -12px"></p></h1>
 
 <img src="wip.png" alt="banner placeholder"/>
 
-<p align="center">Finishing my masters in Computer Science.<br/>Working as a front-end developer at TheLoop.<br></p><br/>
+<p><img src="https://img.shields.io/badge/Computer%20Science-FCUP-9cf" alt="computer science degree"> <img src="https://img.shields.io/badge/Software%20Developer-TheLoop-blue" alt="software developer"></p>
 
 
-<h2>What I currently do</h2>
+<p>Since the summer of 99 putting all my efforts into the development of a smart, confident and humble human model. As a lifelong learner, I am always seeking for new experiences and opportunities. Whether it's personaly or professionaly, my approach will always be based on interest, passion and determination.</p><br/>
 
-- 🔭 I'm working on some secret stuff.
-- 🌱 I’m currently learning something.
-- 💬 Ask me anything.
 
-<h2>To connect with me</h2>
+<h2>Connect with me</h2>
 
 <p align = "center">
  
@@ -22,7 +19,7 @@
 
 <br>
 
-<h2>What I work with</h2>
+<h2>Work with</h2>
 
 <br>
 
