@@ -1,5 +1,7 @@
 <h1><p><img src="https://media.giphy.com/media/3eIDBeFtHy8AIQoq96/giphy.gif" width="50px"> Hi, it's Francisco</h1></p>
 
+<img src="wip.png" alt="banner placeholder"/>
+
 <p align="center">Finishing my masters in Computer Science.<br/>Working as a front-end developer at TheLoop.<br></p><br/>
 
 
