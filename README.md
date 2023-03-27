@@ -37,8 +37,6 @@
 <a target="_blank" href="https://www.figma.com/"><img style="margin-right: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />  </a>
 <a target="_blank" href="https://git-scm.com/"><img style="margin-right: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /> </a>
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>
-<a target="_blank" href="https://www.mysql.com/"></a>
-<img style="margin-right: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />   
-<a target="_blank" href="https://nodejs.org/en"></a>
-<img style="margin-right: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
+<a target="_blank" href="https://www.mysql.com/"><img style="margin-right: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>
+<a target="_blank" href="https://nodejs.org/en"><img style="margin-right: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /> </a>
 </div>
