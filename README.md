@@ -1,6 +1,6 @@
 <h1><p>Hi, it's Francisco<img src="https://media.giphy.com/media/3eIDBeFtHy8AIQoq96/giphy.gif" width="50px" style="margin-left: 4px; margin-bottom: -12px"></p></h1>
 
-<img src="wip.png" alt="banner placeholder"/>
+<img src="github-banner.png" alt="banner placeholder"/>
 
 <p><img src="https://img.shields.io/badge/Computer%20Science-FCUP-9cf" alt="computer science degree"> <img src="https://img.shields.io/badge/Software%20Developer-TheLoop-blue" alt="software developer"></p>
 
