@@ -10,8 +10,8 @@
 
 <p align = "center">
  
-<a target="_blank" href="https://www.linkedin.com/in/francisco-gon%C3%A7alves-a028b0190/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
- <a target="_blank" href="https://www.linkedin.com/in/francisco-gon%C3%A7alves-a028b0190/"><img src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white"/></a>
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/francisco-gon%C3%A7alves-a028b0190/)
+[<img src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white" />](https://linktr.ee/franciscorg7)
 
 </p>
 
