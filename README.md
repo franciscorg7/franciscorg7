@@ -21,7 +21,7 @@
 
 <br>
 
-<div align="center">
+<div align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">  
 <img style="margin-right: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a> 
